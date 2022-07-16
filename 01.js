@@ -44,7 +44,7 @@ const { Queue } = require("../DS");
 
 function henryParking(arr) {
   // Tu código aquí:
-var a = "hola";
+var a = "holaaaaaaaaaaaaaa";
 }
 
 // ⚠️ NO MODIFICAR NADA POR DEBAJO DE ESTA LÍNEA ⚠️
